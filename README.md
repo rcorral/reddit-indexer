@@ -10,8 +10,8 @@ Posts are stored into elasticsearch.
 Install
 -------
 1. Install elastic search
-2. `$ git clone ...`
-3. `$ cd ...`
+2. `$ git clone git@github.com:rcorral/reddit-indexer.git`
+3. `$ cd reddit-indexer`
 4. `npm install`
 
 Use
