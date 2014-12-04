@@ -1,5 +1,5 @@
-Redding Indexer
-===============
+Reddit Indexer
+==============
 
 This project is meant to index Reddit's /all for its top ~50 'hot' posts of each day.
 
